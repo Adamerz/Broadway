@@ -36,3 +36,10 @@ p {
   font-weight: bold;
   color: white;
 }
+.bottom {
+  background-color: dimgray;
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
